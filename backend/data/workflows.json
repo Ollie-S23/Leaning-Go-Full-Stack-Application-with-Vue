@@ -1,0 +1,161 @@
+[
+  {
+    "id": "workflow-crop-scan-water",
+    "name": "Thermal Crop Scan & Irrigation",
+    "description": "Performs thermal imaging over Sector A and irrigates crops requiring moisture. Requires liquid storage and pump capabilities.",
+    "tasks": [
+      {
+        "step": 1,
+        "name": "Navigate to Sector A",
+        "type": "drive",
+        "required_capabilities": [
+          "precision-navigate"
+        ],
+        "parameters": {
+          "target_zone": "sector-a",
+          "coordinates": {
+            "x": 120.5,
+            "y": 45.2
+          }
+        }
+      },
+      {
+        "step": 2,
+        "name": "Thermal Scan Crop Canopy",
+        "type": "scan",
+        "required_capabilities": [
+          "thermal-scan"
+        ],
+        "parameters": {
+          "min_range": 50,
+          "resolution": "high"
+        }
+      },
+      {
+        "step": 3,
+        "name": "Wait for Operator Tank Inspection",
+        "type": "human-wait",
+        "required_capabilities": [
+          "human-confirmation"
+        ],
+        "parameters": {
+          "prompt": "Operator must visually confirm water valve seal before release"
+        }
+      },
+      {
+        "step": 4,
+        "name": "Irrigate Sector A Crops",
+        "type": "irrigate",
+        "required_capabilities": [
+          "liquid-storage",
+          "pump"
+        ],
+        "parameters": {
+          "volume_liters": 250
+        }
+      }
+    ]
+  },
+  {
+    "id": "workflow-perimeter-patrol",
+    "name": "Autonomous Perimeter Security Patrol",
+    "description": "Patrols outer zone perimeter with visual scanning and floodlights.",
+    "tasks": [
+      {
+        "step": 1,
+        "name": "Drive North Perimeter",
+        "type": "drive",
+        "required_capabilities": [
+          "navigate"
+        ],
+        "parameters": {
+          "target_zone": "north-fence"
+        }
+      },
+      {
+        "step": 2,
+        "name": "Scan Perimeter Fence & Illuminate",
+        "type": "scan",
+        "required_capabilities": [
+          "thermal-scan",
+          "illumination"
+        ],
+        "parameters": {
+          "min_range": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": "workflow-heavy-debris-clearing",
+    "name": "Heavy Debris Clearing & Relocation",
+    "description": "Navigates to Sector C, grips heavy fallen debris, and clears the access road. Requires heavy-lift capability.",
+    "tasks": [
+      {
+        "step": 1,
+        "name": "Navigate to Sector C Obstruction",
+        "type": "drive",
+        "required_capabilities": [
+          "precision-navigate"
+        ],
+        "parameters": {
+          "target_zone": "sector-c"
+        }
+      },
+      {
+        "step": 2,
+        "name": "Grip and Lift Heavy Debris",
+        "type": "lift",
+        "required_capabilities": [
+          "heavy-lift"
+        ],
+        "parameters": {
+          "weight_kg": 350
+        }
+      },
+      {
+        "step": 3,
+        "name": "Wait for Operator Clearance",
+        "type": "human-wait",
+        "required_capabilities": [
+          "human-confirmation"
+        ],
+        "parameters": {
+          "prompt": "Confirm dumping zone is clear of personnel"
+        }
+      }
+    ]
+  },
+  {
+    "id": "workflow-night-reconnaissance",
+    "name": "Night Reconnaissance & Mapping",
+    "description": "Performs low-light precision navigation and illuminated thermal scanning under darkness.",
+    "tasks": [
+      {
+        "step": 1,
+        "name": "Low-Light Precision Navigation",
+        "type": "drive",
+        "required_capabilities": [
+          "precision-navigate",
+          "illumination"
+        ],
+        "parameters": {
+          "target_zone": "sector-b",
+          "speed_limit_mps": 3.5
+        }
+      },
+      {
+        "step": 2,
+        "name": "Illuminated Thermal Survey",
+        "type": "scan",
+        "required_capabilities": [
+          "thermal-scan",
+          "illumination"
+        ],
+        "parameters": {
+          "infrared_mode": "active-illuminated"
+        }
+      }
+    ]
+  }
+]

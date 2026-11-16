@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Operation Alpha",
+    "id": "operation-alpha",
+    "status": "active",
+    "created_at": "2026-01-01T00:00:00Z",
+    "updated_at": "2026-01-01T00:00:00Z",
+    "vehicles_allocated": [
+      {
+        "vehicle": "V-01",
+        "status": "active"
+      },
+      {
+        "vehicle": "V-02",
+        "status": "idle"
+      },
+      {
+        "vehicle": "V-03",
+        "status": "active"
+      },
+      {
+        "vehicle": "V-04",
+        "status": "idle"
+      },
+      {
+        "vehicle": "V-05",
+        "status": "active"
+      },
+      {
+        "vehicle": "V-06",
+        "status": "idle"
+      }
+    ],
+    "operating_zone": [
+      {
+        "lng": 144.90116456802218,
+        "lat": -37.85016225454857
+      },
+      {
+        "lng": 144.90116456802218,
+        "lat": -37.83235463122169
+      },
+      {
+        "lng": 144.91674576046444,
+        "lat": -37.83235463122169
+      },
+      {
+        "lng": 144.91674576046444,
+        "lat": -37.85016225454857
+      }
+    ]
+  }
+]

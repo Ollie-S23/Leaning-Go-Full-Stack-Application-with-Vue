@@ -1,0 +1,76 @@
+[
+  {
+    "type": "tank",
+    "name": "Fluid Tank",
+    "capabilities": [
+      "liquid-storage"
+    ],
+    "description": "Fluid storage container enabling irrigation and liquid dispersal tasks."
+  },
+  {
+    "type": "camera",
+    "name": "Thermo Camera",
+    "capabilities": [
+      "thermal-scan"
+    ],
+    "description": "Thermal imaging sensor package for canopy scanning and thermal inspection."
+  },
+  {
+    "type": "rtk-gps",
+    "name": "RTK-GPS Receiver",
+    "capabilities": [
+      "navigate",
+      "precision-navigate"
+    ],
+    "description": "Real-Time Kinematic GPS positioning unit for high-precision vehicle tracking."
+  },
+  {
+    "type": "gps",
+    "name": "GPS Receiver",
+    "capabilities": [
+      "navigate"
+    ],
+    "description": "Standard GPS positioning unit for vehicle tracking."
+  },
+  {
+    "type": "gripper",
+    "name": "Hydraulic Gripper",
+    "capabilities": [
+      "heavy-lift"
+    ],
+    "description": "Heavy hydraulic claw for lifting, gripping, and clearing obstacles."
+  },
+  {
+    "type": "button",
+    "name": "Industrial Safety Button",
+    "capabilities": [
+      "human-confirmation"
+    ],
+    "description": "Physical interactive button for manual operator confirmation and safety clearance."
+  },
+  {
+    "type": "light",
+    "name": "LED Headlight Pack",
+    "capabilities": [
+      "illumination"
+    ],
+    "description": "High-intensity LED floodlight assembly for perimeter security and night operations."
+  },
+  {
+    "type": "lidar",
+    "name": "LiDAR 3D Scanner",
+    "capabilities": [
+      "thermal-scan",
+      "precision-navigate"
+    ],
+    "description": "3D LiDAR spatial scanner for high-resolution mapping and obstacle detection."
+  },
+  {
+    "type": "pump",
+    "name": "High-Pressure Pump",
+    "capabilities": [
+      "pump"
+    ],
+    "description": "High-pressure fluid pump for rapid liquid transfer and boosting irrigation."
+  }
+]

@@ -1,0 +1,1552 @@
+[
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T12:44:49Z",
+    "position": {
+      "lat": -37.841795,
+      "lng": 144.906469
+    },
+    "speed_kmh": 11.6,
+    "battery_percent": 85
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T11:27:32Z",
+    "position": {
+      "lat": -37.842689,
+      "lng": 144.90846
+    },
+    "speed_kmh": 6.4,
+    "battery_percent": 79
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T12:17:08Z",
+    "position": {
+      "lat": -37.84133,
+      "lng": 144.910923
+    },
+    "speed_kmh": 16.3,
+    "battery_percent": 87
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T10:58:27Z",
+    "position": {
+      "lat": -37.842726,
+      "lng": 144.910912
+    },
+    "speed_kmh": 6.6,
+    "battery_percent": 94
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T11:39:18Z",
+    "position": {
+      "lat": -37.841144,
+      "lng": 144.905814
+    },
+    "speed_kmh": 38.5,
+    "battery_percent": 93
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T10:51:50Z",
+    "position": {
+      "lat": -37.842562,
+      "lng": 144.907888
+    },
+    "speed_kmh": 21.6,
+    "battery_percent": 95
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T12:37:59Z",
+    "position": {
+      "lat": -37.840789,
+      "lng": 144.909101
+    },
+    "speed_kmh": 1.8,
+    "battery_percent": 86
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T10:45:10Z",
+    "position": {
+      "lat": -37.839984,
+      "lng": 144.910814
+    },
+    "speed_kmh": 23.2,
+    "battery_percent": 95
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T13:07:53Z",
+    "position": {
+      "lat": -37.83986,
+      "lng": 144.909594
+    },
+    "speed_kmh": 9.5,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T11:22:20Z",
+    "position": {
+      "lat": -37.839617,
+      "lng": 144.909462
+    },
+    "speed_kmh": 11.9,
+    "battery_percent": 89
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T11:16:14Z",
+    "position": {
+      "lat": -37.84401,
+      "lng": 144.907804
+    },
+    "speed_kmh": 25.1,
+    "battery_percent": 93
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T11:53:32Z",
+    "position": {
+      "lat": -37.840586,
+      "lng": 144.905366
+    },
+    "speed_kmh": 7.8,
+    "battery_percent": 92
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T14:17:54Z",
+    "position": {
+      "lat": -37.841072,
+      "lng": 144.90779
+    },
+    "speed_kmh": 11.1,
+    "battery_percent": 67
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T11:33:51Z",
+    "position": {
+      "lat": -37.844031,
+      "lng": 144.910721
+    },
+    "speed_kmh": 23.1,
+    "battery_percent": 78
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T10:09:36Z",
+    "position": {
+      "lat": -37.842469,
+      "lng": 144.906671
+    },
+    "speed_kmh": 6.2,
+    "battery_percent": 97
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T12:50:18Z",
+    "position": {
+      "lat": -37.843294,
+      "lng": 144.907872
+    },
+    "speed_kmh": 33.6,
+    "battery_percent": 69
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T14:40:14Z",
+    "position": {
+      "lat": -37.844274,
+      "lng": 144.910903
+    },
+    "speed_kmh": 51.3,
+    "battery_percent": 81
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T10:57:47Z",
+    "position": {
+      "lat": -37.843331,
+      "lng": 144.910216
+    },
+    "speed_kmh": 19.0,
+    "battery_percent": 97
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T11:25:34Z",
+    "position": {
+      "lat": -37.842247,
+      "lng": 144.906589
+    },
+    "speed_kmh": 6.2,
+    "battery_percent": 97
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T13:47:56Z",
+    "position": {
+      "lat": -37.844846,
+      "lng": 144.906872
+    },
+    "speed_kmh": 47.1,
+    "battery_percent": 86
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T10:09:17Z",
+    "position": {
+      "lat": -37.84315,
+      "lng": 144.910394
+    },
+    "speed_kmh": 19.9,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T14:11:45Z",
+    "position": {
+      "lat": -37.844389,
+      "lng": 144.909635
+    },
+    "speed_kmh": 54.0,
+    "battery_percent": 82
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T12:06:31Z",
+    "position": {
+      "lat": -37.84124,
+      "lng": 144.906648
+    },
+    "speed_kmh": 1.9,
+    "battery_percent": 86
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T13:52:26Z",
+    "position": {
+      "lat": -37.844575,
+      "lng": 144.906428
+    },
+    "speed_kmh": 16.7,
+    "battery_percent": 71
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T13:26:45Z",
+    "position": {
+      "lat": -37.839583,
+      "lng": 144.908693
+    },
+    "speed_kmh": 7.5,
+    "battery_percent": 69
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T10:37:34Z",
+    "position": {
+      "lat": -37.842278,
+      "lng": 144.910723
+    },
+    "speed_kmh": 21.9,
+    "battery_percent": 81
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T10:44:13Z",
+    "position": {
+      "lat": -37.841813,
+      "lng": 144.908354
+    },
+    "speed_kmh": 7.9,
+    "battery_percent": 92
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T14:02:28Z",
+    "position": {
+      "lat": -37.839351,
+      "lng": 144.90619
+    },
+    "speed_kmh": 43.7,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T12:25:21Z",
+    "position": {
+      "lat": -37.841099,
+      "lng": 144.909687
+    },
+    "speed_kmh": 46.1,
+    "battery_percent": 91
+  },
+  {
+    "vehicle_id": "3pt-0002-46bd-9479-telemetry02",
+    "timestamp": "2026-08-05T11:53:13Z",
+    "position": {
+      "lat": -37.839392,
+      "lng": 144.906674
+    },
+    "speed_kmh": 38.0,
+    "battery_percent": 75
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T10:26:53Z",
+    "position": {
+      "lat": -37.840556,
+      "lng": 144.908272
+    },
+    "speed_kmh": 14.8,
+    "battery_percent": 100
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T11:32:46Z",
+    "position": {
+      "lat": -37.84069,
+      "lng": 144.905929
+    },
+    "speed_kmh": 7.4,
+    "battery_percent": 92
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T11:31:08Z",
+    "position": {
+      "lat": -37.712,
+      "lng": 144.985
+    },
+    "speed_kmh": 21.8,
+    "battery_percent": 79
+  },
+  {
+    "vehicle_id": "3pt-0002-46bd-9479-telemetry02",
+    "timestamp": "2026-08-05T10:32:39Z",
+    "position": {
+      "lat": -37.842059,
+      "lng": 144.907601
+    },
+    "speed_kmh": 34.5,
+    "battery_percent": 79
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T12:08:00Z",
+    "position": {
+      "lat": -37.841852,
+      "lng": 144.906698
+    },
+    "speed_kmh": 24.0,
+    "battery_percent": 73
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T11:09:11Z",
+    "position": {
+      "lat": -37.842462,
+      "lng": 144.910744
+    },
+    "speed_kmh": 24.9,
+    "battery_percent": 92
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T16:15:00Z",
+    "position": {
+      "lat": -37.843833,
+      "lng": 144.909178
+    },
+    "speed_kmh": 12.4,
+    "battery_percent": 63
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T12:24:25Z",
+    "position": {
+      "lat": -37.843354,
+      "lng": 144.910846
+    },
+    "speed_kmh": 42.1,
+    "battery_percent": 69
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T11:02:38Z",
+    "position": {
+      "lat": -37.839742,
+      "lng": 144.906888
+    },
+    "speed_kmh": 16.4,
+    "battery_percent": 99
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T12:15:31Z",
+    "position": {
+      "lat": -37.84337,
+      "lng": 144.906918
+    },
+    "speed_kmh": 13.5,
+    "battery_percent": 86
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T12:51:56Z",
+    "position": {
+      "lat": -37.840983,
+      "lng": 144.908384
+    },
+    "speed_kmh": 28.7,
+    "battery_percent": 89
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T10:37:21Z",
+    "position": {
+      "lat": -37.839157,
+      "lng": 144.909497
+    },
+    "speed_kmh": 23.1,
+    "battery_percent": 82
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T14:36:20Z",
+    "position": {
+      "lat": -37.842161,
+      "lng": 144.910407
+    },
+    "speed_kmh": 19.9,
+    "battery_percent": 67
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T13:01:33Z",
+    "position": {
+      "lat": -37.841371,
+      "lng": 144.909306
+    },
+    "speed_kmh": 5.1,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T11:33:45Z",
+    "position": {
+      "lat": -37.840672,
+      "lng": 144.906893
+    },
+    "speed_kmh": 49.7,
+    "battery_percent": 75
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T10:50:39Z",
+    "position": {
+      "lat": -37.840729,
+      "lng": 144.907689
+    },
+    "speed_kmh": 20.7,
+    "battery_percent": 80
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T10:32:57Z",
+    "position": {
+      "lat": -37.84138,
+      "lng": 144.906323
+    },
+    "speed_kmh": 28.8,
+    "battery_percent": 96
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T13:43:01Z",
+    "position": {
+      "lat": -37.844215,
+      "lng": 144.910879
+    },
+    "speed_kmh": 4.0,
+    "battery_percent": 82
+  },
+  {
+    "vehicle_id": "3pt-0002-46bd-9479-telemetry02",
+    "timestamp": "2026-08-05T11:23:52Z",
+    "position": {
+      "lat": -37.840046,
+      "lng": 144.908555
+    },
+    "speed_kmh": 32.9,
+    "battery_percent": 76
+  },
+  {
+    "vehicle_id": "3pt-0002-46bd-9479-telemetry02",
+    "timestamp": "2026-08-05T12:42:12Z",
+    "position": {
+      "lat": -37.840793,
+      "lng": 144.906658
+    },
+    "speed_kmh": 20.4,
+    "battery_percent": 73
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T11:09:49Z",
+    "position": {
+      "lat": -37.839225,
+      "lng": 144.906593
+    },
+    "speed_kmh": 2.7,
+    "battery_percent": 83
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T10:36:42Z",
+    "position": {
+      "lat": -37.841151,
+      "lng": 144.907398
+    },
+    "speed_kmh": 24.5,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T11:27:05Z",
+    "position": {
+      "lat": -37.844444,
+      "lng": 144.90558
+    },
+    "speed_kmh": 21.2,
+    "battery_percent": 94
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T15:13:17Z",
+    "position": {
+      "lat": -37.842964,
+      "lng": 144.91017
+    },
+    "speed_kmh": 6.2,
+    "battery_percent": 67
+  },
+  {
+    "vehicle_id": "3pt-0002-46bd-9479-telemetry02",
+    "timestamp": "2026-08-05T12:20:52Z",
+    "position": {
+      "lat": -37.842075,
+      "lng": 144.907129
+    },
+    "speed_kmh": 30.3,
+    "battery_percent": 73
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T15:54:22Z",
+    "position": {
+      "lat": -37.839902,
+      "lng": 144.905437
+    },
+    "speed_kmh": 10.4,
+    "battery_percent": 63
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T11:06:50Z",
+    "position": {
+      "lat": -37.83995,
+      "lng": 144.908046
+    },
+    "speed_kmh": 5.0,
+    "battery_percent": 78
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T13:06:13Z",
+    "position": {
+      "lat": -37.842479,
+      "lng": 144.910429
+    },
+    "speed_kmh": 14.6,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T12:30:25Z",
+    "position": {
+      "lat": -37.842084,
+      "lng": 144.905415
+    },
+    "speed_kmh": 19.0,
+    "battery_percent": 77
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T10:06:52Z",
+    "position": {
+      "lat": -37.839992,
+      "lng": 144.908495
+    },
+    "speed_kmh": 3.7,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T12:35:47Z",
+    "position": {
+      "lat": -37.841041,
+      "lng": 144.910681
+    },
+    "speed_kmh": 4.1,
+    "battery_percent": 75
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T12:20:50Z",
+    "position": {
+      "lat": -37.707,
+      "lng": 144.99
+    },
+    "speed_kmh": 1.4,
+    "battery_percent": 88
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T12:29:43Z",
+    "position": {
+      "lat": -37.841173,
+      "lng": 144.909517
+    },
+    "speed_kmh": 24.1,
+    "battery_percent": 69
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T11:28:38Z",
+    "position": {
+      "lat": -37.842889,
+      "lng": 144.907722
+    },
+    "speed_kmh": 32.3,
+    "battery_percent": 77
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T10:31:11Z",
+    "position": {
+      "lat": -37.843399,
+      "lng": 144.908846
+    },
+    "speed_kmh": 2.8,
+    "battery_percent": 82
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T13:38:56Z",
+    "position": {
+      "lat": -37.842971,
+      "lng": 144.90853
+    },
+    "speed_kmh": 5.8,
+    "battery_percent": 71
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T14:59:25Z",
+    "position": {
+      "lat": -37.84243,
+      "lng": 144.907223
+    },
+    "speed_kmh": 40.2,
+    "battery_percent": 80
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T13:11:33Z",
+    "position": {
+      "lat": -37.841968,
+      "lng": 144.906507
+    },
+    "speed_kmh": 22.7,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T11:56:29Z",
+    "position": {
+      "lat": -37.841965,
+      "lng": 144.905795
+    },
+    "speed_kmh": 8.7,
+    "battery_percent": 89
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T12:59:32Z",
+    "position": {
+      "lat": -37.843492,
+      "lng": 144.908319
+    },
+    "speed_kmh": 23.6,
+    "battery_percent": 91
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T11:52:39Z",
+    "position": {
+      "lat": -37.702,
+      "lng": 144.995
+    },
+    "speed_kmh": 7.6,
+    "battery_percent": 78
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T11:43:25Z",
+    "position": {
+      "lat": -37.84499,
+      "lng": 144.910553
+    },
+    "speed_kmh": 13.5,
+    "battery_percent": 77
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T10:28:54Z",
+    "position": {
+      "lat": -37.844438,
+      "lng": 144.906396
+    },
+    "speed_kmh": 15.1,
+    "battery_percent": 98
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T11:35:27Z",
+    "position": {
+      "lat": -37.844838,
+      "lng": 144.907364
+    },
+    "speed_kmh": 42.6,
+    "battery_percent": 93
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T12:27:53Z",
+    "position": {
+      "lat": -37.839995,
+      "lng": 144.905976
+    },
+    "speed_kmh": 8.9,
+    "battery_percent": 88
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T10:36:41Z",
+    "position": {
+      "lat": -37.840704,
+      "lng": 144.909208
+    },
+    "speed_kmh": 10.5,
+    "battery_percent": 97
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T12:57:29Z",
+    "position": {
+      "lat": -37.842461,
+      "lng": 144.906271
+    },
+    "speed_kmh": 13.5,
+    "battery_percent": 73
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T14:47:26Z",
+    "position": {
+      "lat": -37.84096,
+      "lng": 144.910905
+    },
+    "speed_kmh": 2.5,
+    "battery_percent": 67
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T10:34:00Z",
+    "position": {
+      "lat": -37.841526,
+      "lng": 144.905238
+    },
+    "speed_kmh": 2.0,
+    "battery_percent": 95
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T11:22:36Z",
+    "position": {
+      "lat": -37.842464,
+      "lng": 144.906667
+    },
+    "speed_kmh": 5.4,
+    "battery_percent": 96
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T15:04:00Z",
+    "position": {
+      "lat": -37.840089,
+      "lng": 144.909507
+    },
+    "speed_kmh": 16.8,
+    "battery_percent": 66
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T12:05:12Z",
+    "position": {
+      "lat": -37.839868,
+      "lng": 144.910199
+    },
+    "speed_kmh": 9.5,
+    "battery_percent": 90
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T13:56:12Z",
+    "position": {
+      "lat": -37.844998,
+      "lng": 144.906721
+    },
+    "speed_kmh": 10.7,
+    "battery_percent": 67
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T12:40:55Z",
+    "position": {
+      "lat": -37.840097,
+      "lng": 144.906796
+    },
+    "speed_kmh": 16.6,
+    "battery_percent": 87
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T13:17:42Z",
+    "position": {
+      "lat": -37.844556,
+      "lng": 144.908777
+    },
+    "speed_kmh": 22.1,
+    "battery_percent": 68
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T12:50:56Z",
+    "position": {
+      "lat": -37.844307,
+      "lng": 144.905642
+    },
+    "speed_kmh": 13.8,
+    "battery_percent": 86
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T12:16:42Z",
+    "position": {
+      "lat": -37.844884,
+      "lng": 144.908237
+    },
+    "speed_kmh": 60.0,
+    "battery_percent": 91
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T12:14:28Z",
+    "position": {
+      "lat": -37.712,
+      "lng": 144.985
+    },
+    "speed_kmh": 11.9,
+    "battery_percent": 90
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T14:11:50Z",
+    "position": {
+      "lat": -37.844206,
+      "lng": 144.910613
+    },
+    "speed_kmh": 14.3,
+    "battery_percent": 70
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T12:22:00Z",
+    "position": {
+      "lat": -37.841261,
+      "lng": 144.90898
+    },
+    "speed_kmh": 3.1,
+    "battery_percent": 74
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T11:48:13Z",
+    "position": {
+      "lat": -37.841273,
+      "lng": 144.908378
+    },
+    "speed_kmh": 2.5,
+    "battery_percent": 89
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T11:16:21Z",
+    "position": {
+      "lat": -37.841679,
+      "lng": 144.907063
+    },
+    "speed_kmh": 59.9,
+    "battery_percent": 77
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T10:54:55Z",
+    "position": {
+      "lat": -37.841609,
+      "lng": 144.906898
+    },
+    "speed_kmh": 6.5,
+    "battery_percent": 93
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T12:34:47Z",
+    "position": {
+      "lat": -37.843804,
+      "lng": 144.905122
+    },
+    "speed_kmh": 26.1,
+    "battery_percent": 91
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T10:22:29Z",
+    "position": {
+      "lat": -37.84374,
+      "lng": 144.906497
+    },
+    "speed_kmh": 2.6,
+    "battery_percent": 82
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T14:59:49Z",
+    "position": {
+      "lat": -37.844491,
+      "lng": 144.908093
+    },
+    "speed_kmh": 15.8,
+    "battery_percent": 66
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T11:41:04Z",
+    "position": {
+      "lat": -37.843851,
+      "lng": 144.909432
+    },
+    "speed_kmh": 31.1,
+    "battery_percent": 73
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T14:21:07Z",
+    "position": {
+      "lat": -37.840292,
+      "lng": 144.909845
+    },
+    "speed_kmh": 4.8,
+    "battery_percent": 70
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T12:40:29Z",
+    "position": {
+      "lat": -37.841422,
+      "lng": 144.907309
+    },
+    "speed_kmh": 14.9,
+    "battery_percent": 93
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T11:37:06Z",
+    "position": {
+      "lat": -37.840157,
+      "lng": 144.909378
+    },
+    "speed_kmh": 13.4,
+    "battery_percent": 93
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T11:49:10Z",
+    "position": {
+      "lat": -37.842725,
+      "lng": 144.90627
+    },
+    "speed_kmh": 33.1,
+    "battery_percent": 92
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T11:44:57Z",
+    "position": {
+      "lat": -37.843424,
+      "lng": 144.908508
+    },
+    "speed_kmh": 22.4,
+    "battery_percent": 96
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T13:35:45Z",
+    "position": {
+      "lat": -37.842371,
+      "lng": 144.908105
+    },
+    "speed_kmh": 3.0,
+    "battery_percent": 71
+  },
+  {
+    "vehicle_id": "3pt-0002-46bd-9479-telemetry02",
+    "timestamp": "2026-08-05T11:08:00Z",
+    "position": {
+      "lat": -37.841305,
+      "lng": 144.910518
+    },
+    "speed_kmh": 51.0,
+    "battery_percent": 76
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T10:49:00Z",
+    "position": {
+      "lat": -37.839365,
+      "lng": 144.905692
+    },
+    "speed_kmh": 24.3,
+    "battery_percent": 84
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T11:55:17Z",
+    "position": {
+      "lat": -37.843055,
+      "lng": 144.905117
+    },
+    "speed_kmh": 23.2,
+    "battery_percent": 77
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T14:02:50Z",
+    "position": {
+      "lat": -37.840766,
+      "lng": 144.908365
+    },
+    "speed_kmh": 2.8,
+    "battery_percent": 80
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T10:13:14Z",
+    "position": {
+      "lat": -37.840892,
+      "lng": 144.910057
+    },
+    "speed_kmh": 19.4,
+    "battery_percent": 100
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T10:27:37Z",
+    "position": {
+      "lat": -37.842561,
+      "lng": 144.908331
+    },
+    "speed_kmh": 29.6,
+    "battery_percent": 81
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T13:46:23Z",
+    "position": {
+      "lat": -37.841623,
+      "lng": 144.906823
+    },
+    "speed_kmh": 59.8,
+    "battery_percent": 68
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T10:20:26Z",
+    "position": {
+      "lat": -37.843505,
+      "lng": 144.91009
+    },
+    "speed_kmh": 11.4,
+    "battery_percent": 93
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T11:22:36Z",
+    "position": {
+      "lat": -37.840629,
+      "lng": 144.906882
+    },
+    "speed_kmh": 15.2,
+    "battery_percent": 81
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T10:51:00Z",
+    "position": {
+      "lat": -37.840581,
+      "lng": 144.906993
+    },
+    "speed_kmh": 23.3,
+    "battery_percent": 80
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T10:23:43Z",
+    "position": {
+      "lat": -37.843841,
+      "lng": 144.90697
+    },
+    "speed_kmh": 21.6,
+    "battery_percent": 86
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T16:48:36Z",
+    "position": {
+      "lat": -37.842449,
+      "lng": 144.906055
+    },
+    "speed_kmh": 23.9,
+    "battery_percent": 61
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T16:21:02Z",
+    "position": {
+      "lat": -37.841064,
+      "lng": 144.905033
+    },
+    "speed_kmh": 18.8,
+    "battery_percent": 63
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T13:22:01Z",
+    "position": {
+      "lat": -37.843793,
+      "lng": 144.90687
+    },
+    "speed_kmh": 24.9,
+    "battery_percent": 71
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T13:27:11Z",
+    "position": {
+      "lat": -37.844313,
+      "lng": 144.909916
+    },
+    "speed_kmh": 58.6,
+    "battery_percent": 87
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T12:09:44Z",
+    "position": {
+      "lat": -37.840578,
+      "lng": 144.906182
+    },
+    "speed_kmh": 10.8,
+    "battery_percent": 75
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T12:01:29Z",
+    "position": {
+      "lat": -37.843846,
+      "lng": 144.905417
+    },
+    "speed_kmh": 16.5,
+    "battery_percent": 91
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T11:31:35Z",
+    "position": {
+      "lat": -37.842257,
+      "lng": 144.910574
+    },
+    "speed_kmh": 23.4,
+    "battery_percent": 91
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T12:36:48Z",
+    "position": {
+      "lat": -37.842554,
+      "lng": 144.908256
+    },
+    "speed_kmh": 10.4,
+    "battery_percent": 86
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T12:40:18Z",
+    "position": {
+      "lat": -37.843144,
+      "lng": 144.90745
+    },
+    "speed_kmh": 10.1,
+    "battery_percent": 73
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T13:01:40Z",
+    "position": {
+      "lat": -37.840399,
+      "lng": 144.906007
+    },
+    "speed_kmh": 44.3,
+    "battery_percent": 87
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T13:00:13Z",
+    "position": {
+      "lat": -37.844236,
+      "lng": 144.907523
+    },
+    "speed_kmh": 23.5,
+    "battery_percent": 71
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T13:40:10Z",
+    "position": {
+      "lat": -37.844574,
+      "lng": 144.908787
+    },
+    "speed_kmh": 5.7,
+    "battery_percent": 71
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T12:04:27Z",
+    "position": {
+      "lat": -37.844652,
+      "lng": 144.910268
+    },
+    "speed_kmh": 23.7,
+    "battery_percent": 77
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T11:40:47Z",
+    "position": {
+      "lat": -37.841688,
+      "lng": 144.909976
+    },
+    "speed_kmh": 15.5,
+    "battery_percent": 92
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T10:43:53Z",
+    "position": {
+      "lat": -37.839143,
+      "lng": 144.909865
+    },
+    "speed_kmh": 22.0,
+    "battery_percent": 82
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T11:59:39Z",
+    "position": {
+      "lat": -37.840488,
+      "lng": 144.909992
+    },
+    "speed_kmh": 30.1,
+    "battery_percent": 92
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T12:19:06Z",
+    "position": {
+      "lat": -37.843635,
+      "lng": 144.906077
+    },
+    "speed_kmh": 20.6,
+    "battery_percent": 71
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T11:06:07Z",
+    "position": {
+      "lat": -37.84011,
+      "lng": 144.910352
+    },
+    "speed_kmh": 10.7,
+    "battery_percent": 90
+  },
+  {
+    "vehicle_id": "7f2525e0-6d5f-46bd-9479-19061683503e",
+    "timestamp": "2026-08-05T10:02:48Z",
+    "position": {
+      "lat": -37.840551,
+      "lng": 144.906469
+    },
+    "speed_kmh": 3.5,
+    "battery_percent": 100
+  },
+  {
+    "vehicle_id": "3pt-0002-46bd-9479-telemetry02",
+    "timestamp": "2026-08-05T12:13:40Z",
+    "position": {
+      "lat": -37.841338,
+      "lng": 144.907274
+    },
+    "speed_kmh": 21.1,
+    "battery_percent": 74
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T11:58:18Z",
+    "position": {
+      "lat": -37.843684,
+      "lng": 144.910985
+    },
+    "speed_kmh": 12.7,
+    "battery_percent": 96
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T10:25:43Z",
+    "position": {
+      "lat": -37.840152,
+      "lng": 144.910136
+    },
+    "speed_kmh": 2.4,
+    "battery_percent": 95
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T12:05:49Z",
+    "position": {
+      "lat": -37.842783,
+      "lng": 144.905946
+    },
+    "speed_kmh": 20.8,
+    "battery_percent": 87
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T14:44:36Z",
+    "position": {
+      "lat": -37.842414,
+      "lng": 144.907541
+    },
+    "speed_kmh": 11.7,
+    "battery_percent": 68
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T12:25:05Z",
+    "position": {
+      "lat": -37.844717,
+      "lng": 144.905658
+    },
+    "speed_kmh": 15.7,
+    "battery_percent": 94
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T13:15:42Z",
+    "position": {
+      "lat": -37.841194,
+      "lng": 144.909976
+    },
+    "speed_kmh": 1.1,
+    "battery_percent": 83
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T10:24:36Z",
+    "position": {
+      "lat": -37.839829,
+      "lng": 144.907423
+    },
+    "speed_kmh": 23.5,
+    "battery_percent": 97
+  },
+  {
+    "vehicle_id": "b2c3d4e5-f6a7-48b9-c0d1-223344556677",
+    "timestamp": "2026-08-05T12:24:34Z",
+    "position": {
+      "lat": -37.702,
+      "lng": 144.995
+    },
+    "speed_kmh": 21.3,
+    "battery_percent": 88
+  },
+  {
+    "vehicle_id": "a1b2c3d4-e5f6-47a8-b9c0-112233445566",
+    "timestamp": "2026-08-05T10:55:39Z",
+    "position": {
+      "lat": -37.840428,
+      "lng": 144.908046
+    },
+    "speed_kmh": 2.7,
+    "battery_percent": 79
+  },
+  {
+    "vehicle_id": "440046c4-77d9-4d78-bf65-5d21e6d67c0d",
+    "timestamp": "2026-08-05T10:42:17Z",
+    "position": {
+      "lat": -37.844807,
+      "lng": 144.906893
+    },
+    "speed_kmh": 6.7,
+    "battery_percent": 100
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T11:39:43Z",
+    "position": {
+      "lat": -37.707,
+      "lng": 144.99
+    },
+    "speed_kmh": 5.0,
+    "battery_percent": 78
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T12:21:39Z",
+    "position": {
+      "lat": -37.843612,
+      "lng": 144.909164
+    },
+    "speed_kmh": 17.7,
+    "battery_percent": 86
+  },
+  {
+    "vehicle_id": "d4e5f6a7-b8c9-40d1-e2f3-445566778899",
+    "timestamp": "2026-08-05T11:17:05Z",
+    "position": {
+      "lat": -37.840136,
+      "lng": 144.906601
+    },
+    "speed_kmh": 19.7,
+    "battery_percent": 80
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T13:20:53Z",
+    "position": {
+      "lat": -37.843208,
+      "lng": 144.90734
+    },
+    "speed_kmh": 22.3,
+    "battery_percent": 83
+  },
+  {
+    "vehicle_id": "3pt-0001-46bd-9479-telemetry01",
+    "timestamp": "2026-08-05T10:50:31Z",
+    "position": {
+      "lat": -37.844826,
+      "lng": 144.907017
+    },
+    "speed_kmh": 47.2,
+    "battery_percent": 95
+  },
+  {
+    "vehicle_id": "e5f6a7b8-c9d0-41e2-f3a4-556677889900",
+    "timestamp": "2026-08-05T15:32:31Z",
+    "position": {
+      "lat": -37.843805,
+      "lng": 144.905147
+    },
+    "speed_kmh": 6.1,
+    "battery_percent": 65
+  },
+  {
+    "vehicle_id": "3pt-0002-46bd-9479-telemetry02",
+    "timestamp": "2026-08-05T10:57:47Z",
+    "position": {
+      "lat": -37.844082,
+      "lng": 144.906057
+    },
+    "speed_kmh": 40.9,
+    "battery_percent": 77
+  },
+  {
+    "vehicle_id": "c3d4e5f6-a7b8-49c0-d1e2-334455667788",
+    "timestamp": "2026-08-05T11:20:21Z",
+    "position": {
+      "lat": -37.843115,
+      "lng": 144.906594
+    },
+    "speed_kmh": 3.3,
+    "battery_percent": 91
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T12:59:55Z",
+    "position": {
+      "lat": -37.839354,
+      "lng": 144.907866
+    },
+    "speed_kmh": 52.9,
+    "battery_percent": 68
+  },
+  {
+    "vehicle_id": "f6a7b8c9-d0e1-42f3-a4b5-667788990011",
+    "timestamp": "2026-08-05T11:48:59Z",
+    "position": {
+      "lat": -37.843517,
+      "lng": 144.908826
+    },
+    "speed_kmh": 19.1,
+    "battery_percent": 87
+  },
+  {
+    "vehicle_id": "3pt-0003-46bd-9479-telemetry03",
+    "timestamp": "2026-08-05T10:59:12Z",
+    "position": {
+      "lat": -37.842574,
+      "lng": 144.90646
+    },
+    "speed_kmh": 46.6,
+    "battery_percent": 79
+  }
+]
